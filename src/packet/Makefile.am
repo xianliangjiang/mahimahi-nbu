@@ -9,4 +9,4 @@ libpacket_a_SOURCES = packetshell.hh packetshell.cc queued_packet.hh \
                       codel_packet_queue.cc codel_packet_queue.hh \
                       pie_packet_queue.cc pie_packet_queue.hh \
                       cellular_packet_queue.cc cellular_packet_queue.hh \
-                      bindworkaround.hh
+                      bindworkaround.hh red_packet_queue.hh
